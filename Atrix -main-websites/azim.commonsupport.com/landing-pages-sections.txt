@@ -1,0 +1,12 @@
+kodaikanal landing pages
+
+1- banner
+2- Your Next Move
+3- About Us
+4- Why Choose
+5- Our Amenities
+6- Video
+7- Get in Touch
+8-footer
+
+pt_85

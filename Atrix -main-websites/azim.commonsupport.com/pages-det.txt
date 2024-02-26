@@ -1,0 +1,18 @@
+INDEX PAGE SECTION
+
+1-banner
+2-about us
+3-Services 
+4-Why Farming is Good for You 
+5-testimonial
+6-blog post
+7-footer
+-------------------****************----------------
+
+TOP NAV BAR
+1-home
+2-about us
+3-projects
+4-services
+5-blog
+6-contact us

@@ -1,0 +1,13 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 23 Sep 2022 14:23:54 at https://marketifythemes.net/html/dizme/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F  -%F  -%l "en, *" https://marketifythemes.net/html/dizme/index.html -O1 "C:\Users\Vantage\Downloads\about" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:24:28	Error: 	"Not Found" (404) at link https://marketifythemes.net/html/dizme/css/owl.video.play.png (from https://marketifythemes.net/html/dizme/css/plugins.css)
+14:24:28	Error: 	"Not Found" (404) at link https://marketifythemes.net/html/dizme/img.svg (from https://marketifythemes.net/html/dizme/js/init.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 34 seconds : 86 links scanned, 83 files written (7697638 bytes overall) [6059904 bytes received at 178232 bytes/sec], 3574955 bytes transferred using HTTP compression in 27 files, ratio 51%, 43.0 requests per connection
+(2 errors, 0 warnings, 0 messages)
